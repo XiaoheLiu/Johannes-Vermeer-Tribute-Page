@@ -1,0 +1,55 @@
+html,body{
+    font-family: 'Goudy Bookletter 1911', serif;
+    text-align:center;
+    min-width:260px;
+    color:rgb(2,43,91);
+    background-color:rgb( 250,241,227);
+}
+h1{
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+#main{
+    margin:20px 20px 20px 20px;
+    padding:15px;
+    border:0px solid;
+    border-radius:5px;
+    background:rgb(236,229,212);
+}
+img{
+    max-width: 90%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+#img-div{
+    margin:20px auto 20px;
+    width:70%;
+    border:5px rgb(236,229,212);
+    background:rgb(188,196,199);
+    padding-top:10px;
+    padding-bottom:10px;
+}
+#img-caption{
+    margin:15px;
+}
+.headline{
+    margin-top:20px;
+    text-align:center;
+}
+.biography-text{
+    max-width:550px;
+    margin:0 auto;
+    text-align:left;
+}
+li{
+    margin: 10px;
+}
+blockquote{
+    max-width:800px;
+    text-align:center;
+    margin:auto;
+    padding: 20px 20px 20px 20px;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}

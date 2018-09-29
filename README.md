@@ -6,6 +6,8 @@ This page showcases my skills to use:
 - Basic CSS
 - Color theory to achieve an elegant visual design.
 
+See a demo of the full page at [codepen](https://codepen.io/sd_athena/full/dqLBMb/).
+
 This is one of the five projects that I did for the Responsive Web Design Certificate at freeCodeCamp.org : "[Build a Tribute Page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/)".
 
 

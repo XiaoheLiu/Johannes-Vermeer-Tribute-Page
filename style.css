@@ -32,6 +32,7 @@ img{
 }
 #img-caption{
     margin:15px;
+    color: rgb(59,81,80);
 }
 .headline{
     margin-top:20px;
@@ -52,4 +53,9 @@ blockquote{
     padding: 20px 20px 20px 20px;
     font-size: 30px;
     font-family: 'Dancing Script', cursive;
+    color:rgb(156,99,73)
+}
+#citation{
+    color: rgb(59,81,80);
+    font-size: 15px;
 }
